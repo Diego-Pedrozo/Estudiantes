@@ -11,7 +11,9 @@ public class Estudiante
     private Integer creditos;
     private Integer semestre;
     private String estado;
+    
     private Carrera carrera;
+    private Asignatura asignatura;
        
     public Estudiante(){
         this.codigo = "1151898";
